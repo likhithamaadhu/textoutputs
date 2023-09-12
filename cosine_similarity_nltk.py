@@ -67,7 +67,7 @@ for i in range(len(folder_paths)):
                     # )
 
                     # similarity calculation
-                    similarity = cosine_similarity(text1, text2)
+                    similarity = calculate_cosine_similarity(text1, text2)
                     ratio = fuzzy_compare(text1, text2)
 
                     key = f"{file1} - {file2}"
