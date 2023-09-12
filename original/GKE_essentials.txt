@@ -1,0 +1,111 @@
+welcome to GKE Essentials.
+where we explore basics and useful tips for getting up and running on GKE
+tensor processing units or TPUs are chips that Google created to
+speed up machine learning tasks.
+TPU is make machine learning model work more efficiently by using
+hardware that is purpose built to accelerate ML, computation patterns.
+For example, matrix, multiplication or communication
+amongst workers in the cluster.
+TPU is also have built in high bandwidth memory.
+This allows it to run even the biggest and most demanding models.
+A TPU training supercomputer.
+Features hundreds of TPU chips connected together with a high speed
+chip to chip interconnect called ICI.
+ICI links coupled with TPU software stack allows you to scale your workload from
+one chip to much larger scale with ease.
+Based on your workload, you can choose to create a specified subset of this
+supercomputer as instances referred to as.
+TPU slice.
+You can use a single TPU slice or even multiple TPU slices to accelerate
+your large-scale training jobs.
+Or use smaller slice shapes down to a single VM with a
+single chip for inference.
+Google cloud TPUs, are highly cost efficient for training
+of large language models.
+Vision transformer based architectures.
+Diffusion based generative models.
+and recommendation systems..
+However until now orchestrating large-scale AI.
+Workload with cloud TPUs have been a cumbersome process.
+Users have to perform a significant amount of manual work to handle failure, logging,
+monitoring, and other basic operations.
+We have heard your concerns and we're here to help.
+With the announcement of cloud TPU in Google Kubernetes engine.
+We are providing the much anticipated support for GKE, for cloud TPU, V4, and
+the latest fifth generation cloud TPU.
+V 5 E.
+with this, it will be easier than ever to develop and manage large scale.
+AI workloads on cloud TPUs.
+Cloud TPUs and GKE, combined the price to performance of
+Google's custom designed TPUs.
+With the power of GKE.
+This means you can use the simplicity of GKE to run your AI workloads and
+take advantage of GKE features like auto scaling auto provisioning, auto
+repair, and auto upgrade to ease the burden of day 2 operations and manage
+your resources more efficiently.
+You can also combine the power of TPU and GKE ecosystem.
+Using tools like weights and biases launch and manage services for
+Prometheus's with TPU is in GKE.
+If you're already using Kubernetes to run your web stateless, stateful,
+batch, or other workloads, you already know how great it is to have a
+single platform to manage everything.
+Now with the general availability of cloud TPU on GKE, you can get all the
+same benefits for your AI workloads.
+Cloud TPU, node pools can be auto provisioned and auto scaled.
+So you only use the resources you need and never have to worry
+about over or under provisioning.
+And you can choose between on-demand spot and reserve cloud TPU instances.
+To fit your budget and workload needs.
+GKE Node pool groups, compute resources that are managed by
+Kubernetes to schedule workloads on.
+Single host TPU slice load pools can scale like normal load pools.
+A TPO slice is an interconnected group of one or more TPU devices.
+A TPU device is another name for a single TPU VM or host.
+For TPU V4.
+This is a V four by eight, which has eight tensor core, four chips.
+And the topology of two by two by one.
+TPU typology refers to how the TPUs are connected together.
+TPUs, can be connected in different ways based on application needs.
+A, multi host TPU Slices, a single atomic unit that is, if any of the TPU
+devices within the node group fails, the entire slice cannot be used.
+A, multi host TPU slice also can't be autoscaled after provisioning.
+The TPU chips in the slice are interconnected in a certain physical
+mesh defined by the topology.
+Therefore a multi-host TPU slice in GKE is represented with a
+single atomic Kubernetes, nodepool.
+For example, a TPU V4.
+32 has a typology of two by two by four.
+Meaning that there are four TPU devices connected with high-speed interconnect.
+Each device has four TPU chips.
+Each chip has some two, tensor course.
+Kueue is an open source project started by the Kubernetes batch working group.
+For fair sharing and quota management for batch and ML workloads and Kubernetes.
+You can use Kueue for scheduling jobs on TPU nodes.
+TPU logs in GKE are automatically collected by cloud logging
+and available in log Explorer.
+You can write your log to standard error and standard out.
+You could also forward this logs to pub sub cloud storage.
+Big query or any other third party platform.
+This has generally been a challenging task in TPU workflows.
+A, workload in TPU is spread across many VMs.
+A centralized logging system will help speed up the finding and
+debugging of potential issues.
+Eric's an automatically detected in logs and visualized as histograms
+to give a view of history.
+Frequency.
+This lets you quickly identify common problems and the history of the air.
+Many metrics are exported to cloud monitoring.
+Like duty cycle, which indicates percent of time the TPU is
+being actively utilized.
+This helps determine the efficiency of our TPU.
+This metrics can also be used to configure Kubernetes horizontal pod auto scaling.
+TPU V5e is our latest offering in our TPU AI supercomputer family.
+Cloud TPU V5e is designed to enable the next generation of AI applications.
+It's our most cost efficient, scalable and versatile cloud TPU
+AI Acceleration platform to date.
+TPU V5e offers up to two times higher training performance and up to 2.5 times.
+Inference performance per dollar, compared to TPU V4 for
+LLMs and generative AI models.
+In this video, we talked about how TPU and GKE worked together to give you the power
+to build the ML platform of the future.
+To learn more about TPUs and GKE click the links in the description below.

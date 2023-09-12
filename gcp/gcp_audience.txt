@@ -1,0 +1,569 @@
+Alright, so as of November 1st intellect and experience moved into an autodata partnership and as a part of that, you know, we've were able to then bring in the auto data. 
+For to go over to Omni, but also into audience engine and a few of you have been using audience engine and we thought that we would open it up to the rest of the team so that you could understand the partnership and what it's about. But also then our goals today are to go through the partnership and then do the audience engine training which will give you a great overview of the automotive data that intellect has subscribed to 
+so let's first talk about what's included in the partnership. So we are the exclusive provider of autodata for Omni. And as part of the we are we've we've 
+We've built a partnership around syndicated Auto audiences semi-custom Auto audiences as well as Auto hyper targeting Auto audiences syndicated Auto audiences are those that are standard models that are off the shelf and we are sending those directly to me as well as uploading them into your audience engine every month. They're being refreshed semi custom refers to combinations of syndicated Auto audiences that include, you know, lifestyle but Automotive elements as well and then autohypertargeting is a unique product to Experian and it's a unique product in the ecosystem Auto hyper targeting allows our customers to Target owners of vehicles who will be coming off lease off loan or who would who are in positive Equity. This is a really popular. 
+Product that we launched a couple of years ago and we launched it for direct mail and email and over the last year and a half we've enhanced it so that we folks could use it for digital. So we've created an auto hyper targeting standard taxonomy for Omni. But also they've they've made it available to you for creating custom audiences as well. 
+And as a unique offering in the marketplace, we update all of our audiences monthly and those are the ones that you guys have access to. 
+So another unique thing about the partnership we have is that you have multi-channel targeting permissibility. So previously you've had analytics and insights permissibility, but planning and activation only around digital and some social but now we've got planning for digital social ddl addressable and CTV Ott as well as activation. 
+And then we've made all of the data that you've subscribed to available in audience engine so that we can collaborate and you can have you know different tools that your fingertips whatever works for you. And then another benefit to this is that to this partnership is that you know, there there are rates that are better specific to Omni and that are available to you in the Standard Auto audiences are at 50 Cent Omni rates and the auto hyper targeting is a dollar 40 for an omni rate and that is significantly reduced off of rack rate. We're excited about that as well. 
+Um just a little bit of information what makes this different you may not know that Experian is one of two recipients of DMV registration data. We collect DMV registration data from all states. 
+And we update that data every 48 hours. That doesn't mean that every state gives us data every 48 Hours what that does mean is that when we are receiving daily weekly or monthly fees, we're bringing those in normalizing them scrubbing them and you know, making them available for our data products. So that is a unique offering in the marketplace as well as we are single Source compiler. So because we are one of two companies that bring this DMV data in and we are also a a provider of Credit Data in the marketplace. 
+And then we are also one of the only independent consumer research databases in the marketplace. We are able to provide our customers that single Source compilation and strong linkage in the background and then we have the ability to activate anywhere. So we have connections throughout the ecosystem that allow our customers to take advantage of high match rate. 
+This is just a proof point about our coverage quality and timeliness we do that updating every 48 hours. And so that gives us the ability to report on 70% of new vehicle sales within seven days and used vehicle sales of 51% within seven days. But that number goes up as as we move into the month and we have a full picture of almost a full picture of purchase across the us at 98% after a month. 
+We are the foundation of a lot of Auto brand Auto data. So many oems. This is a list of most of them the rely on us from everything from stats and loyalty data to market research data to you know, helping them manage their customer data and then also now building audiences. So we're really bringing all of this Auto data out into 
+
+Out into the to the oems but also agencies and platforms and really helping the ecosystem find efficiencies. 
+
+So the very first data set, we that you guys subscribe to is our Standard Auto audience data. And those are built off of two of our two of our unique assets. One is the North American vehicle database. That is our vehicle our DMV vehicle data. 
+
+And we combine that with our consumer view data, and we are able to then create unique models. 
+
+per segment per audience segment 
+
+Which combines both the owner data but also then the consumer research data builds unique segments around that data and identifies the attributes that are most predictive of a sale and that creates a look alike. So this is a really powerful tool that that we have and we've been able to leverage for the marketplace two years ago. We had 32 Auto audiences that we have created now we have over 600. 
+
+These 600 segments sort of lay out like this. We've got in market we've got owner but most recently we've added the ones that are in Red. So we've got many options and alternative fuel. We've added likely switchers that typically, you know, people likely to switch to alternative fuel people likely to switch to HD pickup HD pickup sexually been an increasingly requested audience exotic and then some different views. 
+
+Segments as well and we see that based on. 
+
+You know, we've done a study and based on benchmarks. We see that these audiences increase new vehicle purchase and in brand in brand vibrates from 6 to 24 times. 
+
+So that is compared to the general, you know us Benchmark, but just by adding in Market by maker model, we you could see that you can increase your Buy rate. 
+
+here 
+
+There we go. Okay. All right, next type of Auto data that your company is subscribed to is the auto hyper targeting audiences. This is a really really powerful data set because what it does is create audiences that are you know built off of essentially deterministic data and it resembles a deterministic data set based on the way that we're modeling it. So what it allows you to do is take you know, what we do is we take the file one credit database the North American vehicle database and then add the consumer view marketing database and find the attributes and of the owners that are related. So for instance, let's say we're taking owner of an SUV and we match that to Consumer View and then consume review gives us all of these identity. 
+
+You know attributes for that specific owner, but then we can also then in a compliant way go into the file one credit database and understand that the line of level when the when the lease is up for this particular vehicle. We can understand where they live we can see what what they've when they would be awfully off alone or what they've owned in the past and how long they've owned it. 
+
+Um the difference between this Auto hyper targeting and syndicated one way good way to think about it is the syndicated Standard Auto audiences are you know likely to be in Market in the next hundred and eighty days and that's a fixed time that's applied to all of our audiences with auto hyper targeting you're able to be more flexible with the timing so you could say, you know from today 90 days out. I want to reach all of the people who live in a certain Geo who drive and alternative fuel vehicle who are coming off lease and so, you know, we can say with 80 plus percent certainty that those households are specific to expiring Lee's loan termination or in positive equity. 
+
+It's a really powerful tool. 
+
+You know as we go through these I wanted to be sure that we're clear on the definition of auto hyper targeting. So if you want to Target owners of vehicles who would be offloan off lease or in positive Equity. This is the data set to use and the aht standard data set is what we have been calling it as you know as from the from the, you know from the operation side, but really what that means is you can rely on that every month in Omni or at audience engine in at experience all all of your client make top five models and all vehicle classes for Off Lease off loan owners and inequity will be in there. And those are the folks who have you know, come off lease in the last 60 days and will come off lease within the next 60 days and that's 
+
+That's really the time frame we recommend to use when you're looking at people from offloan Off Lease inequity or owners. 
+
+And then one of the unique things you also have the ability to do and that's what we're talking about. Today is you can build custom audiences Auto hyper targeting the great thing about it is it's really flexible and you can request insights and request a build or you can build it yourself an audience session. 
+
+These are the attributes in the variables that are available for each of those. 
+
+Of those modules Off Lease off loan inequity and owner and those are the attributes in the variables you'd see in audience engines. 
+
+And then proof points. This really goes back to the power of Auto hyper targeting there. This is a case study of a four-month campaign that 
+
+and an Asian OEM did for its competitive segments and we saw that in that four month campaign 288,000 individuals purchase a vehicle and the Loyalty rate and the conquest rates were that of you know, what leads what leads are in the marketplace? So we think those are really powerful audiences. 
+
+And then this is just sort of an overview for you. It's kind of a cheat sheet of the audiences that are available to you as part of the autodata partnership and where to find them. So syndicated Auto audiences will be in Omni. But also at the Experian Auto audience engine and then same with semi custom and auto hyper targeting will be in both. But if you need one that is not in the in the taxonomy, you can reach out to us. It will create it for you. 
+
+All right, so switching from data sets to collaboration tools. 
+
+The next thing we're going to like talk through is the collaboration tool that analog denominy have subscribed to for you, which is an it's called audience engine and audience engine is really a platform. We have that allows users to come in and quickly analyze audiences create them and distribute them and it allows you to do distribution for advanced analytics. You know, you do Direct Connect Omni, or you can distribute Elsewhere for activation. 
+
+If you were not activating throughout me, all right, analect's instance includes user-based from account based user permissions. It also includes the same view of data that you would have been on the also in. 
+
+In experience audience. So you see the Standard Auto audiences the monthly Auto hyper targeting and then the attributes and variables for auto hyper targeting to create customs. 
+
+It also allows you to create unique audiences by combining audiences from both data sets. 
+
+And you can get counts quickly by destination and then obviously the direct distribution includes direct distribution to Omni. So we're able to take advantage of the direct connection between omnine experience as I mentioned dsps, and then select ATV platforms. 
+
+All right, and then just sort of I'm going to hand it off to Kim McConnell to do our audience engine training. But what we want to accomplish today is sort of like an intro to review workflow how to build and distribute audiences for your brand understand the data and the elements available to you in the user interface and then review some of the reporting tools because the tools inside of audience and allow you to do some analytics on some light analytics on the audiences that you're that you're analyzing or that you want to know more about and then if there are further like deep Dives that you want to do into like a 2011 of operations inside audience. We're happy to do, you know more personalized customized training and answer your questions directly, so 
+
+I'll hand it over to Kim and let her. 
+
+Share her expertise. Okay what I want to show you how we have a limited time frame. So I'm going to try to keep it fairly high level and as Laurel said we can do an in-depth additional training or one-on-ones as needed. 
+
+But generally when you log into audience and the first thing that you're going to see my default is the flows canvas and this is where you create your accounts your or your files to be distributed. 
+
+um 
+
+to create a new flow you would click here to create that new flow. But before we do that, I want to show you where you can find some online resources. That will be very beneficial to building flows. 
+
+So down here in the lower left-hand corner. There's a resource center. 
+
+And in here you're going to find many documents for example an audience engine data dictionary. 
+
+And what you can find in here is all the available the elements that are available within the audience engine tools. 
+
+At exports it to an Excel spreadsheet and then this way you can work offline. 
+
+For this to come up and I'll move this over where you can see it. 
+
+Okay. So in your data dictionary you're going to have the pricing structure and audience engine. 
+
+The name of the element it'll give you a file path in the elementary or I like to call this a breadcrumb. It'll tell you where to click to find that like in the auto new folder in the End Market folder in the body style folder. 
+
+Um, it'll tell you the type of data it's going to tell you whether that's an actually I individual reported or if it's modeled or Geographic. 
+
+It'll show you the level whether it's a an individual level data or a household level data. 
+
+And then it'll give you a slight summary of that element and you can search and use this offline. Okay? 
+
+And another tool up here under data discovery. 
+
+I won't go to into depth, but I wanted to show this is just a user preference. You can come in here and search for elements. So like if you search for auto. 
+
+Need to bring this up so you can have a visual how the tool looks. 
+
+Okay, and then here you can limit this to only elements available in audience engine. 
+
+And then as you find elements you that might meet your needs for your targeted audience. You can check those. 
+
+Search for new verbiage and it'll keep adding the elements you're interested to into a list. 
+
+And then you can download a report to only see that handful of elements instead of seeing the entire data dictionary which can be thousands of elements. 
+
+So personal preference just another way another way to research it and get to the elements that you may use. Okay? 
+
+Up here under the documentation icon and here. This is an online system assistance. You can come in here. 
+
+If you're working in flows, for example, and you want to know more about a filter node that you use to create audiences will be subtext in here. 
+
+Screen prints on how to build a filter and some additional information if you're a self-learner and want to go out and explore and answer some of your own questions. This is where you would find that 
+
+Okay, I'm going to go back to the main flow the home page. 
+
+Okay, when you first log in I want to point out over here on the left. Once you create your first flow. Everybody's going to have their own personalized folder. So you can see I have some sample flows out here that you can reference and use it when you get started, but how these work is you cannot change anybody else to flow, but you can view somebody else's data. 
+
+Okay, and I'll show you when you're in here how you can use a save as button to copy somebody's and put it under your own name. So you can see we have a few people that have logged in and done some few flows. You might see some names that you recognize here. Okay, just and to navigate the folder. This is just like File Explorer on your computer. You can use them or not. You just simply add a folder. You can name this whatever you want to say you can move. 
+
+Files I left clicking and hold them into a folder. 
+
+And everybody has their own personal Styles so you can do this. However you want. 
+
+Under your own name. 
+
+Okay, I'm going to delete that because I don't need that. 
+
+Okay, so let's go back to the main flow blank canvas, which is this trident icon. If you ever have to navigate back to this page. Okay, we'll create a new flow. 
+
+Okay, the first thing you should always do is to always name your flow. 
+
+As you can see when you name it you see that up here. 
+
+Under your folder and you don't want to have 20 or 30 flows named new item this way. This flow will be searchable and you can find it. I'm going to go ahead and hit save. 
+
+The save button. I know that the simple feature but I like to recommend now that we're all working at home with the environment. I for one loose connection sometimes so I save often so I don't lose my work. 
+
+Okay. 
+
+This drop-down. This is what we're referred to as the toolbox and this will have all of your nodes that you can use within flows. Okay, there's not a lot. So once you learn the flexibility, you're going to learn to stack and use them you can create a flow that's a simpler's complex complex that you need it to be. 
+
+And before we get into these I just wanted to point out when you left click and hold tools onto your canvas. 
+
+And you can build and stack them create separate flows. But what I'd like to point out is over here on the right. I'm going to close this up temporarily these buttons over here are simply for how you personally want to view your work or your work palette. Okay, you can make it bigger. You can make them smaller or this nice fit button here will make it as big as possible based on. 
+
+Sorry about that based on the elements that you have. There's an auto arrange tool that will align them up based on how you have them length. 
+
+I use these a lot. 
+
+I take these out of here in the toolbox. You'll see when you hover each over each one of the nodes. It's going to give you a summary of what the tool does. For example, this creates a new audience with all the demographics that you choose to create it can have 
+
+either no input or one input and it tells you it will have one output or it says children one. Okay, and they each have that kind of definition. 
+
+We will go over some of these kind of a type short time first. I'll be a little bit quicker today. For example, let's pull down a filter and create an audience. 
+
+Okay to get into the tool you double click. 
+
+You name your tool because as you link tools it always reference the tool that's input or output or on reports that you export. So this can be anything you want to be. You can call this count one. You can call this Segment 1 you could call it the auto aht. 
+
+Demo one just for example purposes for today. I'll just call this. 
+
+Not what the example am I going to do today? Let's do a HT demo. Let's make okay now to get started the gray areas where you drag and drop your elements will be putting them in here. But all the available elements are over here on the left and what we call the element tree. 
+
+There's three primary sections. You have experience consumer view data. 
+
+Okay, you have analytics first party data. So what we have loaded up for you looks like it's just your analect luid and per our living unit ID and person ID. 
+
+This area is where you will find audiences that you upload. There is a function in the system. We can do separate training on where you can upload large list of zip codes like if you have a list of zip codes 
+
+Or luids for a specific audience. You want to see in the system you can upload them and see them here. 
+
+The auto hyper targeting data will be here under the hypertargeting folder. 
+
+Okay, so let's build a quick audience today. I'm going to go in and let's let's grab the age element which is under demographics. 
+
+Okay, when you hover over an element, I want to point out you do get the same summary you see in the data dictionary. 
+
+And if you want to send that to somebody you may be speaking with you do have the ability to write click and copy that into your clipboard and just put that right into an email which is kind of a handy feature. Okay? 
+
+To move it to your right you can just drag that into the great gray box or you can double click. 
+
+Again personal preference to which way that you like that? 
+
+Okay. I'm going to go ahead and just for today just select 19 plus. 
+
+Um, let's go ahead and let's build some hypertargeting data elements. 
+
+Let's go ahead and pull in off loan date. 
+
+Okay, I'm going to just select a few dates and here just for a sample. 
+
+I'm going to do five six seven eight nine here and let's let's add in make 
+
+okay. 
+
+Okay, so in here you can select things like I'm just going to grab three or four. Let's do BMW Chevrolet. 
+
+Forward hmm. 
+
+Land Rover 
+
+and we'll do Lexus. 
+
+Okay. 
+
+So that's how you build a simple audience you find your your elements on the left? 
+
+Can you drag them to the right? Okay before I go into talking about the Boolean logic. I do want to point out some search features. 
+
+I'm going to use. 
+
+I know it's Auto not Auto related, but I like to use something. I know there's multiple elements. So I'm going to go ahead and use the word Cruise. 
+
+And as you can see when you search by default, it's going to find elements and folders that are related to the text that you're searching for. So vacations are related to cruise travels related to cruise but sometimes if you're using an offline data dictionary, you know specific element. You just want the elements with the specific name. This green button is our conceptual search. You can talk all that off and bring that list down to a shorter list of elements. 
+
+And move those into your platform. 
+
+Okay. 
+
+And just I'm going to move these in just to show you how to use Boolean logic in here and then I'll remove these. Okay. I'm going to add a group. 
+
+Which drops to the bottom and I'm going to move these into this group. 
+
+Okay. 
+
+So to explain how you're doing logic Works in audience engine, there's an Android or button that connects directly to the line that follows below. 
+
+okay, so everything here will be set up to be age and offline and make 
+
+And this group that we added see if I close this up you can see those all go together. 
+
+So now for this group I'm changing this to an or because they only have to meet one of these individual elements. 
+
+Okay, you can build these Boolean Logics as complex as you need to you can add groups you can add groups within groups. 
+
+So as you can see, it can be a simpler complex as you needed to be. It's very very flexible. 
+
+Okay. 
+
+I'm going to back back out of here. 
+
+and I'm going to temporarily say 
+
+I do have some demos. I want to show you when you execute a node. 
+
+There's many ways to do it. You can right click on your node and say execute this individual tool. 
+
+Or you can hit execute and this runs everything that's in your flow. If you have 40 tools, they will all run. 
+
+Okay. 
+
+Just temporal. I'm going to put another tool in here if there's another tool connected to it. You can right click and say execute this item and everything connected below it. 
+
+Okay, so I once it runs if you look at a completed sample, see if I've got one here. 
+
+Okay, you'll see once it runs the quantity displays for you right on the Node. 
+
+Okay. 
+
+I also want to point out before we move on to other notes when you double click on your filter, once it runs you'll see you have the capability to export the report. 
+
+And I'm going to export one of these the reports looks slightly different depending on the note that your exporting. 
+
+I want to give you a sample. 
+
+Okay, so you can see here. It brings out. 
+
+The name of the tool that you named it it's going to give you all the elements that you selected. 
+
+It's going to tell you the pricing labels that are set for those particular elements and it's going to give you the audience size. 
+
+It's also going to have the benefit of coming down here onto the data dictionary. It's going to give you the data dictionary rows for those particular items that you use also. 
+
+Okay. 
+
+So let's go back into the demo flow. Okay now moving on to other tools make us figure so you can see this. 
+
+I'm going to show you how to use a report note. 
+
+Okay, you can connect this. 
+
+And when you open this the reporting tool is is Handy. You can do it on an audience or as a standalone. 
+
+The basic function for this is you pull in any element that you want to use. 
+
+I'm going to use. 
+
+let's use make 
+
+an offline date 
+
+Okay. 
+
+Now anytime you want to summarize on an item you have to count it. So every time you run account you will need to go into under analect and select either a living unit ID, which is household level or a person ID, which is person level. I'm going to grab personal level. 
+
+And then you have to set how you want to count it. You can say minimum value maximum count distinct. 
+
+And we'll just say this is make and offline base. 
+
+Okay. 
+
+You can also I'm going to duplicate this. 
+
+When you're in a report note, you go back here. You can see this doesn't have an input file. So it's a standalone note. 
+
+You can actually build your audiences as a filter within the report to so by using the ad custom filter. 
+
+And you can see this looks exactly like the filter tool that we just build where you would go in. 
+
+You would grab your income or your age your auto elements? 
+
+Okay. 
+
+I have one of these ran I want to show you. 
+
+What that looks like when it runs because this is a pretty Dynamic tool. I think you'll use this a lot. 
+
+Okay, I'm going to go into a standalone sample. So you can see that you can see the elements that we selected. We're counting on person ID. 
+
+You can see the custom filter that I applied in this report node, but now here at the bottom. It's going to give you a flout a flat inventory the elements you selected. 
+
+But the good part about this is I'm going to move these up here for just a second. When you first come in all of the elements that you selected will be up here in a queue. 
+
+Even if there's nine 10 or 11 elements, it's a it's a dynamic real time. You can move these around and create pivot tables to look how you want them and how you want. 
+
+So I'm going to select what we summarize here. And for example if I just want to see a quick count on make for that audience. 
+
+You can see how quick that was where you can see how many of each of those. 
+
+Makes are in that audience. 
+
+If I change how I'm counting there's some options in here. It's not this I'm sorry, you can change from integer sum to some fraction of total. So it will then show you the percentage of this audience is 42% of Chevrolets 6% Lexus. So it'll give you a little bit of an Insight on that. 
+
+Can make it back to here here? 
+
+Okay. 
+
+I got to get out of here get this to collapse for me. 
+
+Okay, and then you can also see your visual preference. You can put that as a column instead of a row. 
+
+And move those around dynamically. And once you have a report, you can hit the report button and expect export that version into Excel. Okay. Maybe you want to see a combination of elements and make a pivot table. 
+
+And then you can export that to report so you can see it's pretty versatile on it the elements and how you can move this around to make it where you can look at your audience a little bit deeper. 
+
+What's my clock here? 
+
+Go back into this demo. 
+
+Okay. 
+
+Okay, you have the ability to to do a split tool split tools can be used to do quantity cutbacks. 
+
+You can add in a function and say I want to 10% control. 
+
+and a 90% test 
+
+and just to show you how that looks when you come out of your tools. 
+
+You can also take that same split instead of using a percentage of our relative amount. You can make that an absolute. Like if you have a budget limit you can do a quantity cutback. 
+
+And say this needs to be limited to I'm just going to say 100,000 records for a sample. 
+
+You can output a balance file or you can turn that off. 
+
+Okay, we'll rearrange this. 
+
+Okay. 
+
+We have a merge tool that allows you to suppress other audiences. 
+
+So I'm just going to duplicate the tool. 
+
+And we're going to make this a different audience. Let's go ahead and make this one. 
+
+We're going to go ahead and take these elements out and make it a little bit different. 
+
+Let's go down to 
+
+make 
+
+we'll search for Honda. 
+
+Okay, we also have make under our high level Auto elements here. 
+
+Let's go ahead and use this naked model. 
+
+This one instead. 
+
+Okay, you can also combine that with consumer view elements. For example, we have Mosaic our Mosaic codes. 
+
+So I'm going to pull that over here. We'll use a mosaic code. 
+
+We'll select those power Elites. 
+
+Give this a new name. 
+
+Okay. 
+
+So now that you have two filters you can use a merge tool. 
+
+To combine them into a single audience. This can be used if you want to see the individual account for each audience, but really only once one file with no keys. 
+
+If you double click on merge, you can also suppress other audiences if you know for sure you do not want this particular set of Records. You can turn this on to be suppressed. So it'll suppress those out of your audience. 
+
+You can do inner joins. 
+
+Okay. 
+
+Okay. So now if you wanted to do these counts or if you want to get them ready for two distribute to a destination. We have an export node. 
+
+I'm going to pull that down here. 
+
+And how this functions and I'm going to also show you single View. 
+
+We'll start with single View. 
+
+A single view tool what this does this allows you to see the reach for a particular audience? 
+
+You can double click and come in here if you want to see say a estimated match count to Dish. 
+
+Or FiOS or Target smart you just click those and run them. 
+
+Okay. 
+
+And hit save quick and I'll show you how that looks once a single view runs. 
+
+Okay, once that runs you'll see that the counts display and give you an estimated total. 
+
+You can also see some of those destinations have a minimum quantity. So that will automatically be 
+
+Image control and it won't show you that if that falls below their particular minimum. 
+
+Now the export is required to get data prepped to go, but it can use be useful for count. 
+
+So in this instance, this is where you would enter your campaign name. 
+
+On the export node, because this actually goes into the file name that you distribute. 
+
+You then select your destination. So if it's going to go to an elect direct, you can select the analect household. 
+
+Or if it's going to new star or live ramp would also be selected here. Okay. 
+
+Once that destination is selected. You have some more options. You can turn on a JuJu feature to dedup the segments that your outputting you can rearrange the priority for deduping them. 
+
+And you can apply a segment code that you want to see. 
+
+All right, you can also turn Max quantity on and you can cut back the quantity here. 
+
+If too much was selected, you can also set this back to like a hundred thousand records per segment. 
+
+Just to show you some of the capability of the export tool. 
+
+Okay. 
+
+Okay now to show you a export that ended I'm going to pull one of those up. I'll just pull up. 
+
+an audience 
+
+now once the audience has ran and all of your mods are modules have quantity to the ploy. All you would have to do I'm not sure which option is turned on here. But there's two if you have the direct deploy it just hit the deploy email and you'll get an email that tells you when it's done. 
+
+Okay, if you're set up to have approval first, we usually set up new years as this way so we can kind of look at your flows to kind of help you learn, but under here you would do the requests export approval. And then once you've done that you would email the OA Ops that experian.com email address and we'll take a review for that and get that release to deploy. 
+
+Let's see what some of these other nodes that we have up here merge offer. You won't use single view insights is retiring. 
+
+They do this note is not used often. But what you can do with this is the analect file is at an individual level. 
+
+You can take an audience in. 
+
+And what you can do is if you want to see a quick household count. 
+
+You can just select to do that on a living unit or a household level just to see what kind of household contact that you're going to have. 
+
+Okay. 
+
+pretty simple 
+
+Okay. 
+
+Up that I hear I thought I heard somebody ask me a question. 
+
+Love the DJs. 
+
+They do so the Amway file is currently set up. So when you see a quantity on your node, that's going to be the number of individuals that are going to be output onto your file. 
+
+Okay, the do they call it the Deedee? No, because if say my household has three people it will be duped that or take that down to one per household. 
+
+So you only get one person for the household that is going to be output. 
+
+Because it also dedup across audiences or just within just within a node. 
+
+Yeah, did you do note is a single filter tool? That's why I said this one is doesn't have high usage. It's just if you want a quick count on a single node. 
+
+If you're going to want to do across audiences, like here, we have two you'll want to use an export. 
+
+I say okay. 
+
+Okay, it says export but it doesn't actually send the data until you hit deploy. So this can be used for counts and deduping and prepping the data file to be distributed. 
+
+Okay, so case node. 
+
+The case node is just a different way to create audiences. I'm going to try to hurry here so we can leave some questions just at a high view view case does the same thing as filter? If you have two audiences here you would build the same exact two audiences here. The only difference is coming out of the case tool. It comes out deduced across the audience's. 
+
+At the level that your file is built. So for an elect and I think you're Billet personal level. I would have to double check for you. The audience is would come come out duped on a personal level. So a person can only be in one audience at a time. Okay, so when you look in case you add a row 
+
+And as you can see, this looks just like that filter tool where we pulled the audiences in and built them. 
+
+You can label it just like you do a filter node. So you could name this. What do we name? That first one? 
+
+So like this we can name this one same thing a g a t demo Lux make 
+
+okay, you could build that audience and once you're done. 
+
+I have to add an element to get a feature show up. So let me pull an element in here. 
+
+Okay, once you have an audience built this clone option will come up where you can just copy that audience. 
+
+And it will copy everything you have settled here or you can build a new one. And then you name this just like we did that second tool. 
+
+So I'm just going to name this one real quick on the items. 
+
+Okay, and when you come out here you can see it has two audiences just like if you had built them. 
+
+The only difference is it's the duping at the level of your file individual house a lot to check for that for you. 
+
+Okay. 
+
+So basically the functionality of the note there's very few in the functions are fairly easy to get used to once you get in here. 
+
+But I want to start a new flow and I want to show you that you can make this as complex as you need to because you can stack if you're doing research. You could select say I'm just going to use the headers instead of pulling elements to save time. You could run account on age. 
+
+You could pull in another filter and add in. 
+
+a make 
+
+you're trying to see where you're dropping quantity or how you can increase quantity. You can build these and use these as a research tool to go as big or little as you need it to be. 
+
+Okay. 
+
+So high level those are the tools. 
+
+I want to point out here under this at my external user ID. I do have some samples here for you. 
+
+counts and orders with different tools 
+
+You can't change in the system won't let you but what you can do is when you come out here and if you find one you want to use a starter template. 
+
+Bring this up here. All you have to do is to save as button. 
+
+And then you can name this whatever you want and hit save. 
+
+And you can see it creates a copy of that under your folder so it would copy from me to your folder. 
+
+So this is a good way to learn. 
+
+And if you have other examples or you need help with audiences, feel free to reach out to The Oaf team. That's what we're here for either myself or someone else can help you with those audiences and building the first few and it will get easier the more that you do. 
+
+Okay, so major limited on time. I want to make sure we have at least a few minutes. 

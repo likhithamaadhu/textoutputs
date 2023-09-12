@@ -1,0 +1,186 @@
+The protagonist of the show is Elliot Alderson,  a socially awkward and depressed cybersecurity  
+engineer from New York city. At first glance,  his life is pretty boring. His daily routine  
+consists of going to his workplace; a tech company  called Allsafe, avoiding interaction with people,  
+and coming back home. However, when it becomes  night, Elliot turns into one of the most  
+interesting people on earth. Using his advanced  cybersecurity skills, he has become some sort  
+of a vigilante. No matter how secure or complex  a data encryption is, Elliot will find a way to  
+hack it. He doesn’t do it for fun, he just  wants to bring justice to those who need it.
+One day, he enters a coffee shop and sits next  to the rich owner of the place, Rohit. At first,  
+he has a normal conversation and talks about  the impressive wifi installed there. However,  
+a few minutes later, he changes his  attitude and starts explaining why  
+he’s actually there. Elliot reveals that  he hacked into Rohit’s network and found  
+out about his child pornography ring. There were  hundreds and thousands of gut wrenching videos,  
+which Rohit apparently sells to  his customers for money. Elliot  
+also mentions that he has copied all the data and  files, meaning that Rohit has no way of escaping.
+Hearing all this, Rohit becomes worried but  he claims that Elliot cannot inform the cops,  
+as hacking into one’s system is also a crime. To  his dismay, the latter reveals that he actually  
+contacted the police right before he entered the  coffee shop via an untraceable number. This shows  
+that Elliot always plans his moves in advance.  Rohit, who at this point has become very scared,  
+offers him money to reconsider, but  Elliot straightforwardly rejects it,  
+claiming he doesn’t care about money.  Soon, the cops arrive and arrest Rohit.
+The following day, we see how a socially  awkward Elliot manages himself in the Allsafe  
+office. He tries avoiding just about  everyone, including his boss; Gideon,  
+and remains glued to his computer all the time.  But there is one coworker he loves talking to;  
+Angela. It’s revealed that the two are childhood  friends and have been very close for years. Elliot  
+has a crush on her but can’t express his feelings  because she already has a boyfriend; Ollie.
+After work, Elliot meets his therapist; Krista  Gordon. We get to know that he meets her at least  
+3 times a week to help cure his depression. As  expected, Elliot has hacked into her personal  
+details and knows everything about her. For  instance, she is currently dating a middle  
+aged guy named Michael. Elliot appears to care for  Krista, so he tried to hack Micheal’s details and  
+know him better, but even after hours of searching  on the internet, he couldn't find anything.
+Meanwhile, as part of the counseling session,  Krista asks him several questions, but Elliot,  
+owing to his awkwardness, doesn’t reply much.  As a matter of fact, the therapy isn’t helping  
+him at all. At home, he usually has bouts of  panic attacks, which makes him want to commit  
+the unthinkable. And since he has no friends  or family, the only way Elliot keeps himself  
+sane is by ingesting high-strength morphine.  Here, it is revealed that his father died of  
+leukemia due to radiation exposure while his  abusive mother left him at a very young age.
+The following day, as Elliot is  busy with work at his office,  
+some executives from a giant  tech company; Evil-corp,  
+arrive. Elliot despises the company because he  believes that they are greedy money grabbers,  
+who don’t care about their consumers at all.  However, sadly for him, Evil-Corp is currently  
+funding his company; Allsafe. Just then, the  vice president tech officer of Evil-corp;  
+Tyrell approaches him and starts chatting  over their shared interest in Linux.
+After work, Elliot returns home and carries out  his routine of ingesting Morphine. Shortly after,  
+he is scrolling through his therapist; Krista’s  photos when he learns that her boyfriend;  
+Michael, has finally created his social  media account. This gives him an idea.
+Early next morning, Elliot pretends to be  a stranger and approaches Michael. He then  
+borrows his phone on the pretext  of calling his mother. However,  
+he calls his own number to obtain Michael’s  phone number. After the work is done,  
+he deletes the call history  and returns the phone back
+On his way home, he suddenly receives a call  from his colleague; Angela, informing him that  
+Evil-corp’s server has been DDoS attacked. Deep  down inside, Elliot is happy, and wishes that  
+more damage is done, but when Angela requests that  he come over to help, he immediately obliges. On  
+reaching the office, another coworker briefs the  situation. He reveals that the DDoS attack is the  
+worst they have come across, and despite trying  every single remedy, it won’t go away. Wasting no  
+time, Elliot checks into the system and learns  that the attack is actually taking place from  
+multiple locations. Moreover, it is not a DDoS  attack, but a rootkit that is causing mayhem. Now,  
+the only way to get rid of it is by going  offline and terminating all the viruses.
+Elliot’s boss; Gideon, is skeptical about  the idea, as it may result in further damages  
+to the system, but since there are no other  solutions, he agrees to it. The next morning,  
+Gideon and Elliot fly to their data  center, and begin the recovery. At first,  
+Elliot redirects traffic to another server and  then reboots the situation. The plan works and  
+the servers are finally out of danger. Later,  when Elliot is going through the encrypted files,  
+he notices something strange. He finds a text file  named Fsociety that says "Leave me here." Elliot  
+realizes that the file was meant to be found by  him, so he decides against deleting it. Instead,  
+he hides it inside Evil-corp’s server,  so that only he can access it later.
+In the next scene, as Elliot is returning home  via the subway, a strange man named Mr. Robot  
+approaches him. He asks Elliot to exit the train  and meet him outside for a chat, but only if he  
+hasn't deleted the text file. Hearing this, Elliot  realizes that Mr. Robot is from Fsociety, the same  
+organization that attacked Evil-corp’s server.  Hence, he quickly exits the train and follows the  
+man. After a bit of small talk, Mr. Robot takes  Elliot to their workplace in Coney Island, which  
+apparently is a basement like room with several  computers. Unlike other hacking organizations,  
+Mr. Robot reveals that here, everyone has  to meet physically and do things together.
+Later, after returning home, Elliot  immediately logs onto his computer and  
+tries finding more about Mr. Robot and Fsociety,  
+but it appears as if they are ghosts. There is  literally not a single information about them.
+The following day, an intrigued Elliot returns to  Coney island and chats with Mr. Robot. The latter  
+reveals his plan to hack into giant servers,  wipe out all the debts and distribute wealth  
+evenly among the population. In short, he wants  to start a financial meltdown and bring down the  
+disparity between the rich and the poor. Mr. Robot  further reveals that he targeted Elliot because of  
+his vast cyber hacking skills, and also because  he has access to Evil-Corp. It turns out that  
+Evil-corp owns a whopping 70% of the world’s  credit industry. Elliot is caught between two  
+minds as he wants to help those in debt but at the  same time, he also believes that robbing the rich  
+of their hard earned money is wrong. He mentions  that he will think about it, but before departing,  
+Mr. Robot assigns him a task. All he has to do  is log into Evil-corp’s server, modify the text  
+file from earlier and enter the IP address of  Terry Colby, the CTO of Evil-Corp. That night, a  
+confused Elliot changes the IP address, and keeps  the records in a file. However, he decides against  
+submitting it to the authorities. He hates Terry  Colby, but doesn’t want him to go down this way.
+The next day at work, Elliot, his colleagues,  the FBI and the executives from Evil-Corp are  
+having a meeting about the cyber attack.  Angela is doing her best to brief the  
+situation but the arrogant Colby ignores  her and tells her to leave the meeting.  
+This enrages Elliot so he eventually  decides to hand the file over to the FBI.
+After the incident, several days pass by but the  news of Colby’s arrest has not appeared. Moreover,  
+Mr. Robot and his Fsociety have become  anonymous, prompting Elliot to believe  
+that he was tricked. With nothing else to do,  he decides to toy with Trisha’s boyfriend;  
+Michael. He calls him pretending to be  his bank officer, and extracts important  
+details like his dog’s name, favorite  things, and so on. Using the information,  
+he easily hacks into Michael’s account, and learns  that he is cheating on Trisha with several women,  
+some of whom are underaged. That night, Elliot  confronts Michael and reveals that he knows  
+everything. He then blackmails him to come  clean with Trisha, or else he will inform the  
+police. Left with no choice, Michael obliges,  and thus, their relationship comes to an end.
+A few weeks later at work, the news of  Evil-Corp CTO; Colby’s arrest is finally  
+shown. This makes Elliot realize that Mr. Robot  and his vision are actually trustworthy. Later,  
+as he is walking down the busy street,  a group of suited men force him into a  
+car and take him away. Soon, they reach an  office, where several men are waiting for  
+him. One of them is Evil-Corp VP Tech  officer that he met earlier; Tyrell.
+It turns out that he has become the interim  CTO of the company after Colby’s arrest. Tyrell  
+gets straight to the point and offers Elliot the  position of head of cybersecurity at Evil Corp,  
+which would make him a millionaire in  months. However, after thinking for a while,  
+Elliot politely declines, claiming that  he is content with his current work.
+That night, he logs into his computer and  tries hacking Tyrell’s database. Surprisingly,  
+the new CTO of Evil Group doesn’t even use two  step authentication, and Elliot easily gets  
+access to his emails. He scrolls through it but  finds nothing other than family pictures. This  
+is when it strikes Elliot that Tyrell wanted  him to hack his database all along. Hence,  
+he disconnects his computer, turns off the router,  and burns the memory cards to stay anonymous.
+The next day at work, Gideon summons Elliot to  his office and displays a recent video released  
+by the cyberhacking group; Fsociety. In the  video, an anonymous person in a mask takes  
+responsibility for the recent attack on Evil  Corp and demands the release of Colby. He also  
+threatens the major credit organizations  to dissolve their assets and distribute it  
+evenly among charity organizations. Failing to  comply will result in these major organizations  
+getting hacked. Seeing the video, Elliot  once again assumes that he has been duped.
+Later, he returns home distraught, only to find  someone in his shower. It is Darlene, one of the  
+Fsociety hackers that he had met earlier. She  has come to escort him to their hideout for the  
+next mission. Elliot believes that he is going  against the law and fears being caught, but  
+suddenly he realizes that he can learn more about  Fsociety and expose them once and for all. Hence,  
+he agrees to go with Darlene. On reaching the  place, Elliot meets all the team members and chats  
+with Mr. Robot, who starts discussing the next  phase of their plan. He orders Elliot to blow up a  
+gas plant, which is next to an off-site Evil Corp  data storage facility. This will erase all the  
+data that is transferred to China, hence, starting  their uprising. Elliot is intrigued by the plan,  
+but since it involves blowing up and killing  people, he decides to stay out of it. However,  
+in the subway, he realizes that he cannot run away  from Fsociety, as he has also become one of them.
+All these incidents have started  to take a toll on Elliot’s psyche,  
+so he decides to increase his morphine dosage. He  goes to his neighbor/ drug dealer; Shayla’s house,  
+only to find a violent woman abuser and drug  supplier named Fernando. Elliot appears to  
+know everything about him as he is Shayla’s  only drug dealer, who often visits her. He  
+is the one who supplies the morphine that Elliot  regularly consumes. This is also the reason why  
+Elliot doesn’t expose him to the police; if  Fernando is gone, his morphine is also gone.
+Shortly after, Fernando leaves, and Elliot  finds Shayla half unconscious and beaten up  
+in the bathroom. He urges her to inform the police  about the constant abuse she has been suffering,  
+but Shayla refuses, saying Fernando provides her  with very good deals. This infuriates Elliot so  
+he decides to take matters into his own hands.  He anonymously leaks Fernando’s details to the  
+police and gets him arrested, even if it means  that his regular morphine supply is now gone.
+Elsewhere, as Angela and her boyfriend;  Ollie are walking on the streets,  
+a random guy approaches them and gives them a CD,  saying it’s his new mixtape. When they reach home,  
+Ollie inserts the CD into his computer, and as  soon as he does so, he receives an email from  
+one of his girlfriends. She invites him over to  her place to have fun that night. Ollie, being a  
+pervert, lies to Angela that he has a meeting  with his friends and departs. Surprisingly,  
+after he leaves, we can see that a man named  Cisco has hacked into his computer webcam.
+The following morning, Elliot meets up with  Mr. Robot and the two sit on a railing and  
+talk. They talk about their past lives  and families but in the midst of it,  
+Mr. Robot expresses his displeasure on the fact  that Elliot abandoned them some days ago. Saying  
+this, he suddenly chucks Elliot from the  railing, and onto the rocky beach below.
+On the other hand, the interim CEO of Evil Corp;  Tyrell, gives an inspiring speech to the CEO,  
+explaining why his role should be  made permanent. But to his dismay,  
+the CEO reveals that they have found a good  candidate, whom they want to try out first.  
+Hearing this, Tyrell becomes enraged and  heads to an isolated location. There,  
+he meets a homeless man, pays him some cash, and  beats him to a pulp to vent out his frustration.
+Meanwhile, Elliot wakes up in a hospital, bruised  and bandaged. He is visited by his therapist;  
+Krista, who believes that he overdosed on morphine  and fell from the railing. When Elliot declines,  
+she asks him to provide her with a blood  sample. This is music to Elliot’s ears  
+because the current hospital he is  in has a very weak security system.  
+It is run on windows 98 and has a puny  antivirus as protection. As a result,  
+he easily hacks into it and alters his records  to make it look like his blood is free of drugs.
+After getting discharged, Elliot heads to  work the next day, where Mr. Robot pays him  
+a surprise visit. The two then head to a bar  and discuss, but Elliot is still angry about  
+what happened earlier. He tells Mr. Robot that  he doesn’t want to be a part of his plan anymore,  
+and asks to be left alone. Mr. Robot obliges,  and before leaving, he reveals that Fsociety  
+is going to be defunct, as without  Elliot, there is no purpose in the plan.
+With the notorious cyberhacking group out of the way, a big burden is removed from  
+Elliot’s chest. Hence, he starts becoming more social and interactive. He asks his neighbor and  
+close confidant; Shayla out on a date, and also  engages in other normal activities like jogging,  
+going out with friends, chatting with  people on social media, and so on.
+At night, Elliot, Shayla, and the other Allsafe  employees are invited to Gideon’s house for  
+dinner. There, they reminisce about their work  and the good times they have had. Suddenly,  
+on the television, a news channel  reports that the notorious hacker group;  
+Fsociety has struck again. This time,  they have released huge amounts of data,  
+which reveal that Evil Corp knew about the  Washington Toxic Waste scandal, which killed  
+several people due to Leukemia, including Elliot’s  dad and Angela’s mom. The news makes Elliot sad,  
+but now, he has a purpose to take down the  company. Hence, he quickly leaves the place.
+Later, when Angela and Ollie reach home, they  get into a minor argument about their recent  
+relationship status, which has been mostly  cold. Taking this as the perfect opportunity,  
+Ollie finally reveals that someone has hacked  into his computer. The hacker, Cisco, has sent  
+several nude pictures of Angela, along with credit  card details of her father, and is threatening  
+to release them. However, Ollie can stop that  from happening if he infects their workplace;  
+Allsafe. Realizing the gravity of the situation,  the couple seriously considers doing it.
+In the final scene, Elliot, who  has apparently made up his mind,  
+arrives at the Fsociety base  and joins his teammates.

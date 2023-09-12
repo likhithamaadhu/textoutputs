@@ -1,0 +1,544 @@
+Hey, friends.
+For over 30 years, banks,
+governments, manufacturers,
+and other industries
+have relied on Microsoft
+integration technology
+- such as Host Integration Server
+- to access
+and work with data
+on their midrange and mainframe systems.
+Now, you can add Azure Logic
+Apps to your list of options
+for solving
+your mission-critical integration needs.
+Harold Campos is here to show me
+how it works, today on Azure Friday.
+Hey, friends.
+I'm Scott Hanselman and Azure Friday.
+Today I'm chatting with Harold Campos,
+who's going to talk to me
+about cloud native capabilities,
+integrating with mainframe
+and midranges. How are you, sir?
+I'm good. I'm good. How are you, Scott?
+All good?
+I am - you're scratching a neuron in my brain
+that I haven't thought about in many,
+many years.
+I did a lot of mainframe work
+at both Nike and a bunch of banks.
+I did a ton of integration work
+throughout the nineties
+and during the Y2K
+stuff working in banks.
+So this is very exciting
+that we're still keeping these mainframes
+chugging and bringing them to the cloud.
+Yes, it is.
+It is.
+Scott and mainframes
+are still around and
+We have to work with them as part of
+their mission critical scenarios
+for our customers.
+Yeah, I understand that
+a huge amount of people
+are putting their data on mainframes.
+They're still out there.
+Mainframes exist,
+they're not old and legacy.
+They are fundamental
+to so many businesses.
+So when the world moved to
+the cloud, mainframes came for the ride,
+You are right.
+So let me let me show you
+A brief history of mainframes and midranges
+a little bit about the evolution
+of the mainframes over over the last
+70 years
+or so, mainframes days
+started around 1950,
+and they've been evolving the hardware
+and the networking has been evolving
+from what you used to have
+back in the day
+to what, what you have today.
+But basically at its core,
+mainframes remain the same.
+So, on the inside,
+the applications, they are left
+mostly untouched,
+which poses a challenge
+because there is a lot of data
+and a lot of mission critical systems
+being hosted in those devices.
+Despite their modernization,
+it is estimated that
+there are trillions of dollars.
+that were invested
+back in the day
+in SNA applications,
+which was a the predecessor of TCP/IP right?
+as applications
+where linked to the way
+how protocols work as you know so then
+they are still around and they represent
+they represent...
+How can I say this one of these
+situations that customers
+they have to deal with on a daily basis,
+mission critical customers
+like banks, as you say.
+Now, what we've been working on
+over the last few years
+is that we've been...
+do you remember Host Integration Server, Scott?
+...
+Oh my goodness, Host integration server,
+I want to say '93, '94,
+we would use that to talk
+to all kinds of big iron.
+so well,
+we still have Host Integration Server.
+We support the product, we have it
+the current version.
+is Host Integration Server 2020.
+But what we've been doing over
+the last five years
+is we've been,
+introducing these core technologies
+of integration.
+That Host
+Integration Server has to Logic Apps.
+So, now
+the majority of the capabilities
+that you have in Azure Logic Apps
+in Host Integration Server they
+are now available in Logic Apps via
+Logic Apps connectors,
+Mainframe modernization
+there is,
+there is, there's been efforts to,
+to support our customers
+in the mainframe modernization space.
+There are different approaches
+for mainframe modernization.
+There is lift and shift, code conversion,
+extension of capabilities, and
+rewriting these mainframe systems.
+And on top of these
+there are other patterns.
+And we've been learning from customers
+that customers are really pursuing
+or they are asking for help
+on managing the dependencies
+because it's not just about
+migrating the mainframe, it's
+not just about migrating the application,
+but what happens, what is with
+what is left behind on premises, right?
+You still have to deal with those systems
+or how is it
+that you interact
+with what
+you modernize to the cloud
+so for those scenarios
+where we have logical Apps,
+and Host Integration
+Host Integration Server.
+capabilities
+that allow customers to continue
+using these legacy assets
+in the in
+what is left from the mainframe
+or the dependencies for the mainstream
+that have been migrated to the cloud
+to Azure.
+Azure Logic Apps for legacy modernization
+And I think
+I think
+something that is worth mentioning,
+is that if we see this
+from a cloud perspective,
+we have a workflow a logic apps workflow
+which
+which has different type,
+different types of connectors
+which allow integration
+with different types of systems
+on premises or in the cloud making a hybrid
+architecture.
+But we also have all, all of these
+connectors, these legacy
+integration connectors mainframe
+and midranges integration connectors
+like IBM MQ, Host files, 3270
+to interact between
+screens, CICS systems, DB2 databases.
+IMS transaction managers
+and an IMS database,
+which is a hierarchical database.
+So if you see the world from a
+from a cloud perspective
+and the enablement that brings the cloud
+and additional scenarios with software
+that allows to enable and empower
+all of these scenarios
+that today we have,
+like for instance,
+dealing with terminals
+or printers or ATMs.
+Every time that you go to an ATM,
+you are likely using host
+integration server
+to interact with the mainframe
+and also the capabilities
+that that you can gain
+if you continue modernizing this work
+with any of our partners.
+So then logic Apps becomes the
+the the product for hybrid
+integration for legacy
+mainframes and midranges.
+Right.
+Well, if I may, one thing
+I want to comment on
+is that with Azure Logic Apps, you know,
+you have these wonderful Lego blocks
+and, you know, I like to think about it.
+In the modern world,
+there's like blob storage and HTP
+and you can go
+and do these things and you,
+you then start adding
+in other things like service bus
+and file systems,
+all of those pieces
+that Azure provides
+are available to you in a workflow.
+Why shouldn't your big iron
+be available to you as well?
+I should be able to call a mainframe
+and put something in storage
+and make an HTP call.
+And they're all peers in that wonderful
+logic app's workflow
+and it sounds like that's
+what you're making possible.
+absolutely absolutely And on top of HTTP
+you know
+I think
+I think what sometimes this
+is a bit of a challenge to explain to
+to to to to folks is
+that a
+mainframe is not only a server right.
+A Mainframe is really an ecosystem.
+You know, you host applications,
+you host data,
+you host messaging systems, right?
+So then integrating with them, it's
+it's, it's, it's, it's something
+you have to see holistically
+Right? from different angles
+and different protocols and different
+approaches and patterns and
+technologies.
+So let me show you
+a little bit of what
+we have today, with
+with
+Logic Apps on our mainframe and Midranges connectors
+we think is to Yeah, let's do it.
+Demo: Azure Logic Apps workflow and mainframe connectors
+let me let me open the portal.
+Okay. So in the portal
+I go to my logic app,
+I have a Logic App
+that is called Azure Friday of right here.
+Right.
+One important
+aspect to manage in it
+to set up this logic app
+to, to, to have is the VNET integration
+capability enabled
+because you definitely
+want your mainstream not to be exposed.
+So you want to use of being in
+a virtual network
+to interact with your mainframe and then
+open the right ports and
+to make sure that you
+have access
+to the right facilities in the mainframe.
+This workflow that I have here
+consolidates all of our connectors.
+You have all of the connectors
+that we have available
+for mainframes and midranges integration.
+We have, let me
+show you this amount.
+So this is after the workflow
+and that's the ability
+to integrate with using 3270,
+which is a protocol
+that was created to work.
+with screens
+the screens that you are very familiar
+with, right?
+The DB2 connector
+that uses that TCP IP connectivity
+to gett into our DB2
+database
+host files offline connector,
+which is a connector.
+that has a parser for binary files
+and we will see how it works.
+We have a connector for IMS systems.
+IMS is
+...
+one of the oldest systems around.
+It was built the Apollo mission
+back in 1966.
+You have the CICS connector
+for the CICS system,
+who was born in 1968
+and you have also an MQ Connector.
+So then all of these connectors,
+they are available Logic Apps.
+So then now with logic apps,
+you can integrate all of these
+different types of systems
+from our workflow.
+And to be honest,
+I think,
+I think this is something
+that the team has been working very hard
+and we are so happy with the outcome
+because in the end
+it allows
+true mission critical integration
+with these legacy systems.
+A couple of things to add
+before before running this short demo
+is that for some of the connectors
+that you have that I just presented,
+you have to create a definition
+that is based in copybook copy files,
+which are basically a representation
+of the COBOL programs
+that represent the parameters of each one
+of these legacy programs like these.
+And for CICS
+we require one, for IMS,
+we require another, another type
+for a data structure.
+We require another
+structure which we are available.
+We in visual Studio, we can create
+a mirror of the structure using
+Visual Studio
+and
+in a file that we call HIDX: Host
+Integration Definition
+XML file, that basically represents,
+you know,
+your your
+your binary file,
+your binary structure,
+your COBOL copybook in the mainframe.
+So then once
+you have to find all of these.
+So then the other thing
+that you have to have
+available is access to the system.
+So you have to enable the right protocols
+on then to be able to,
+to integrate with, with this system.
+via the core
+protocols, either
+HTTP or SNA over IP, or whatever it is
+is that you require by your system.
+Now let me go back to the demo.
+What what is going to happen
+is that I'm going to upload a file
+which is a binary file
+from from my machine.
+I will look for the file and
+this is a dataset that I created that
+typically is generated by
+the mainframe. Right.
+And then what is going to happen
+is that this workflow will read
+the binary data of this file and will
+pass it
+to some of these connectors
+and then it
+will trigger some of these activities
+in this workflow before we do.
+And then
+then I go to a run history.
+We'll see that this workflow is running
+here.
+Then I'm going to hit
+the detail of the workflow to see
+how is it going, and then it will see
+something,
+something very important here.
+So this has been completed.
+They call to the IMS program
+took 0.2 seconds
+and this is a call from the cloud.
+So it went to the
+it went from from the Logic App
+to the mainframe.
+It did some data extraction, executed
+a method
+and returned a value of 777.12.
+Right. Which is what
+that basically the
+outcome of the mainframe program
+this happened with the CICS system.
+I have another mprogram that does the same
+it returns the same amount
+and also I was able to send a message to a queue
+to this MQ system
+that resides in the mainframe, right?
+I send it back and then I have the body.
+The response of this datagram
+that I sent.
+And a couple of things to add is that to
+the data that I sent was binary
+and then it was
+successfully passed by this parser.
+You see the outcome here,
+you see that
+this is a data
+and this is a data
+I wanted to show you here.
+Just if you just give me one second,
+you see that
+Trying to log on...
+So cool to see the terminal.
+I haven't thought about these
+in a long time,
+but the reminder that they're out there
+and that they're they're
+producing and
+holding such important data.
+it is.
+And, and
+let me let me
+show you something real quick.
+It's just
+this just taking some time.
+So I'll
+I'll go to my dataset,
+this one that I exported
+and I'm
+going to browse it right.
+And then you'll see
+that it has two records.
+So these
+two records that I had in the file
+as a two records are having passed
+that data, that you saw was binary data
+and that binary data was basically
+parsed by this host files connector,
+just to finish.
+So we are executing a DB2 query
+this is a select from a table,
+on the same mainframe
+and we are executing for 3270
+a navigation plan,
+which is basically what we call
+a sequence of screens,
+a set of screens
+that that have a sequence.
+And for you to get to a particular class,
+you have to create a navigation
+that mimics
+all of the sequence of these screens
+using a tool
+that is called a 3270 tool
+or 3DT.
+With this tool, you are able to create
+a sequence of screens
+and you have 20 screens.
+And this navigation plan will tell you
+that this is fantastic
+for robotic process automation scenarios,
+and that is going to happen.
+So that's the reason why it took longer,
+because you have to do
+computation in the cloud
+and on the mainframe.
+And that's what I wanted to show you.
+This is basically to summarize
+some of the capabilities
+that we have today
+in Logic Apps
+to integrate with these legacy systems.
+There's so many different connectors,
+Wrap-up
+there's so many ways to talk
+to so many different databases
+over so many different protocols.
+Like you said,
+it's really a onramp into an ecosystem.
+And what's so important about this
+and what I think
+we want people to understand
+is that once you get it into logic
+Labs, once you get it into Azure,
+then you can join the other ecosystem,
+which is the Azure ecosystem
+data, lakes and data,
+you know, logging management analysis,
+all of that work.
+Once you can bring those two ecosystems
+together with logic apps
+and integration server as the bridge,
+you can really do some cool solutions
+very quickly.
+Exactly. Exactly.
+You're spot on, Scott,
+And on the fact that
+this is a result of work that was
+conducted by a team for the
+last 30 years,
+I think is wonderful
+because this is not a new
+technology, right?
+I mean, the work that we've done
+and that we have running on this
+mission, critical customers for so long
+speak about it because the customers,
+they are integration Very cool.
+Yeah. Those core capabilities
+that have been around,
+that have been reliable
+and been used in host integration server
+now brought to logic apps.
+It's peanut
+butter and chocolate together.
+My two favorite things.
+Very cool.
+Thank you so much.
+Gerald Campos,
+for showing me
+about this, this new stuff.
+All right.
+I am learning all about Azure Logic apps,
+bringing those cloud Native capabilities
+to integrate our mainframes
+and our midranges
+today on Azure Friday.
+Hey, thanks for watching this episode of
+Azure Friday.
+Now I need you to like it.
+Comment on it,
+tell your friends retweet it.
+Watch more Azure Friday.

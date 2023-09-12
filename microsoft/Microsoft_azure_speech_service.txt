@@ -1,0 +1,15 @@
+Learn how to turn text into speech in this episode of Azure Tips and Tricks. You can use the Azure neural text to speech service to turn text into human speech in many languages and voices. Let's create a small app to use the service. To follow along. You need the latest version of Visual Studio and you can also do the same in Visual Studio. I'll start by creating a text to speech service in Azure. Here, let's search for speech. OK, there it is. Create. This creates A cognitive service speech service which includes API endpoints like the text to speech service. Let's start by giving it a name. Next, I'll pick a location. Also, a pricing tier, OK and now select a resource group. That's it. Create it and I'll skip to when it is done. Here it is. This is the cognitive services speech service. Let's take a look at the keys and endpoints blade. OK, we need this information for our application. We need the access key and also the location. So W Europe in my case. All right, let's use the service in an app. This is Visual Studio and I've already created a simple console application. The first thing that I changed was to add a nugget package. Let's take a look. I added this one for the. Cognitive services speech service. OK, let's go back to the program dot CS. In here I have added a using for the cognitive services speech namespace and here I create a new config with the access key and location that we saw. In the portal. Next I use this config to create a speech synthesizer. And finally I invoke speak text async with a text that I want to be turned into speech. Let's try this out and there it goes. 
+
+Synthesizing directly to speaker output. 
+
+See the audio comes directly from the default audio device. Cool. These are the default settings, which means that the service detects the language of the text and uses the default voice to synthesize it. It uses US English for this. You can change these defaults, for instance by inserting this. This configures the speech service to use British English instead. Let's see. 
+
+Synthesizing directly to speaker output. 
+
+Yep, that works. You can use multiple voices for a language, so I can change this to use another voice. Let's try this. 
+
+Synthesizing directly to speaker output. 
+
+See, that sounds very different. Very cool. Also, by default the audio is returned through the default audio output of your device. You can change this to return the audio into a memory stream or into a file like this. This outputs the audio into a file called audio wave, and you can tweak the parameters of the audio that goes into that file as well. The Azure neural text to speech service enables you to convert text to lifelike speech which is close to human parity. Go and check it out. 
+
+ 

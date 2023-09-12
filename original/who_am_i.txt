@@ -1,0 +1,176 @@
+In Berlin, young hacker Benjamin is sitting in  an interrogation room after having walked into  
+a hotel room full of bodies. He has information  to offer about the cyber mafia, but he'll only  
+accept to be interrogated by Hanne, the Head of  the Cyber Division of Europol. Hanne accepts the  
+job and asks Benjamin to start the story at the  beginning, prompting him to go all the way back  
+to his childhood. As a kid, Benjamin already  wants to do great things, but he is invisible  
+to everyone around him. His father ran away when  he was born, which is the same that happened to  
+his grandmother; the only memory she has of her  own father is the bullets that killed him during  
+the war. Benjamin's mother ends things when he is  eight, so his grandmother has to raise him. Magic  
+has always been a hobby of Benjamin, and when he  grows into a teenager, he changes that passion  
+into computers and hacking, which in his eyes is a  form of magic too. He's incredibly good at what he  
+does and on the internet he feels like he belongs,  unlike in real life where he's an ignored loser.  
+His hero eventually becomes a famous hacker known  as MRX, and from him Benjamin learns to manipulate  
+pharmacy systems into sending him Ritalin. He also  learns the three rules every hacker should follow:  
+no system is safe, aim for the impossible, and  have fun on both the internet and in real life.  
+This isn't possible for Benjamin since he doesn't  even have friends, only a lame pizza delivery job  
+because he never went to college. One evening, he  makes a delivery to a study group that includes  
+Marie, the girl he's been crushing on since  high school, but she doesn't recognize who he  
+is. She comes to his defense when a mistake on  the pizzas is found and Benjamin tries to thank  
+her with a superhero quote, but she considers him  a weirdo and Benjamin leaves with his tail between  
+his legs. Before he makes it outside though, he  overhears Marie mentioning she wishes she could  
+have the exam answers, so he decides to break  into the university and hack the central server,  
+that way he could impress her and get her to  marry him. His hacking technique is flawless  
+and the answers are acquired, but unfortunately  he's caught by a security guard. Since he has no  
+criminal record, his only punishment is community  service, and while cleaning the streets Benjamin  
+gets to meet Max, a very charismatic man that is  impressed by his hacking story and invites him to  
+a party later. In the evening, Benjamin attends  the party and discovers Marie is there too but  
+doesn't dare talk to her. Max takes Benjamin to  a private office and introduces him to software  
+master Stephan and hardware freak Paul, who  ask Benjamin to prove his hacking skills. In  
+a matter of seconds, Benjamin uses the office  laptop to cut power in the whole neighborhood,  
+earning the acceptance of the three men. This  also gets the attention of the police, so Benjamin  
+brings the power back before running away with  his new friends because this isn't Max's house,  
+they just sneaked into an open party. On their  way out, they bump into Marie, who recognizes  
+Benjamin as the delivery guy and gets dragged into  running with them by Max. Once they're far enough,  
+Marie finally realizes Benjamin is the loser from  high school and quickly goes away after admitting  
+it's been an interesting evening. When Max returns  home, he finds the door open and his grandmother  
+gone. Luckily he finds her wandering the streets  before she gets hurt, but this is a sign that her  
+Alzheimer's has advanced enough for her to need a  nursing home. A few days later, Max finds Benjamin  
+again and reminds him of MRX's rules, meaning  Benjamin needs to start enjoying life. Max  
+considers himself a social hacker because people  are the most vulnerable part of any system and is  
+just a matter of deceiving them. To prove it, he  picks a donut shop ticket and an empty box from a  
+trash can and uses them to convince the clerk that  his order came empty. Afterward, they meet with  
+Paul and Stephan at a parking lot and they steal  a van that they take to a hall where an important  
+political conference is being held. Using fake  IDs they made themselves, they sneak inside and  
+Benjamin approaches the main laptop by using Max's  advice on social hacking, pretending to be part  
+of the organization team. Once the computer has  been hacked, they run back to hide in the van and  
+change the conference presentation for a humorous  video of Hitler. Many of the conference attendants  
+notice the van outside and come after it, but the  group gets to drive away without getting hurt,  
+although the poor van does end up destroyed. Back  in the present, Hanne is starting to wonder why  
+he should believe everything Benjamin says, so  he impresses her by mentioning lots of details  
+about her private life that he's acquired through  hacking before continuing with his story. After  
+that successful prank, the group chooses  Benjamin's house as their base of operation  
+since he's living alone now. Their prank is going  viral on the internet and while Paul doesn't like  
+the attention, Max loves it and wants to become  as famous as MRX. Since Max likes to use a clown  
+mask to post the videos online, Benjamin offers  the name CLAY for the group, which stands for  
+"Clowns Laughing At You". From then on, CLAY  begins working on all kinds of hacking pranks,  
+which go from changing the graphics on the  financial news or the lights on the building of  
+a big pharma company, always displaying rebellious  messages. They don't take anything seriously and  
+stay awake until late thanks to Ritalin, and  all this hard work soon makes CLAY famous both  
+on the internet and the news in real life. One  afternoon, while they're at the grocery store,  
+the group bumps into Marie again, but Benjamin  only manages to say hi to her. This frustrates  
+Max, who quickly takes over the conversation and  shows Benjamin how to talk to girls. Max's mood is  
+unpredictable, he can go from charming to furious  in seconds, especially when he gets frustrated  
+every time MRX doesn't acknowledge their success.  It's around this time that the German government  
+collaborates with Hanne, who comes over to work  with agent Martin and his team. There's been a  
+few important attacks on government systems lately  that she thinks were made by FR13NDS, a dangerous  
+Russian cyber mafia group that she's been chasing  for three years. Meanwhile the boys hack their way  
+into a radio contest and win a Porsche that they  ride through the city as a symbol of their power.  
+They also use it to pick up some girls that they  take to Benjamin's home for a night of alcohol and  
+dancing. However Benjamin can't stop thinking of  Marie and decides to look for her in the Porsche.  
+He finds her at a party and impresses her with  the car, so after chatting a bit about her exams,  
+Benjamin decides to be more like Max and kisses  her. This isn't what Marie wanted and makes her  
+leave, but when Benjamin tries to follow her, one  of Marie's friends hits him and warns him to stay  
+away from her. The next morning, the group is  surprised to find a message from MRX making fun  
+of them because in the documents Hanne presented  to her colleagues, CLAY was mentioned as harmless  
+and nothing to worry about. This enrages Max,  who is obsessed with trying to impress MRX and be  
+accepted in the big leagues, so Benjamin comes up  with an idea: they should hack the main building  
+of BND, the German Central Intelligence. This is  their hardest target yet but they start simply  
+by following the truck that picked up the BND's  trash, and once everything is in the dumpster,  
+they dive in for anything useful. They end  up finding a birthday card with a name on it,  
+and with that name they find the e-mail address of  a BND worker. Through a process known as phishing,  
+they send a fraudulent link pretending it's cute  pictures, and when the employee clicks on it she  
+grants them instant access to her computer.  They can't access the main server from there,  
+but they do get access to her files and since  she's the one that makes the building access  
+cards, CLAY orders four cards for themselves and  manage to easily enter the BND building through  
+the front door. Paul takes care of the main power  and security alarms, Stephan deletes the security  
+camera recordings, and Benjamin is in charge  of doing the actual hacking, although he stays  
+a little longer to do something extra. As soon as  they're gone the prank kicks in and every printer  
+in the building prints dozens of pages with a  cheeky message from CLAY. That night, the group  
+goes to a club to celebrate their successful prank  and comes across Marie again. Benjamin is finally  
+feeling confident enough to make a better pass  at her, but he gets a sour surprise when he finds  
+her kissing Max. Furious and heartbroken, Benjamin  returns home only for Max to show up at his window  
+minutes later wanting to talk. Too angry and  betrayed to talk, Benjamin tells Max to go away  
+and insults him, so Max snaps back by reminding  him he's nothing without them before leaving. The  
+idea of being nothing bothers Benjamin because he  doesn't want to be a loser again, thus he reveals  
+he stole classified data from the BND servers and  gifts it to MRX to prove his skills. The next day,  
+after Hanne visits the BND building for clues  about the latest prank, she receives awful news:  
+the agent that had been infiltrating FR13NDS  has been killed. Between this death, the prank,  
+and the stolen information, Hanne's position is  hanging by a thread. Meanwhile, Max, Paul, and  
+Stephan show up at Benjamin's place, and a fight  begins when Benjamin calls Max a manipulator. Paul  
+makes them stop when the latest news appears on  tv, revealing that the double agent was killed  
+because the information that was stolen from  the BND servers revealed his name to FR13NDS,  
+which MRX works for, and now CLAY is labeled as a  terrorist group. The group freaks out and Stephan  
+wants to leave while Max wants Benjamin to hand  himself over to the police since it's all his  
+fault, but Paul is against sacrificing anyone.  Benjamin points out that they should deliver MRX  
+and FR13NDS to the police instead, that way they  can become invisible again. Their discussion is  
+suddenly interrupted by the doorbell: it's Marie,  who is worried about Benjamin after he disappeared  
+last night. She thinks he's acting weird right  now too, and he takes that as an insult and  
+proof she'll always see him as a freak, so he  sends her away after accusing her of having come  
+over only for Max and wishing he had never met  her. CLAY agrees they should find MRX, but since  
+they've become so paranoid they decide to use a  public network at the local library, which allows  
+Hanne's team to track their location. Faster than  expected, Benjamin is granted access to MRX's  
+private channel, where MRX welcomes him officially  into the Darknet and gifts him a file with the  
+next job. Benjamin downloads the file just in time  before Hanne arrives with a bunch of officers,  
+managing to avoid them by hiding under the table.  Failing to capture CLAY again after having them so  
+close gets Hanne suspended. The job MRX wants  CLAY to do is to send malware dressed as real  
+information, also known as Trojan, to the Europol  system, and they accept to do it because they have  
+a plan: they're going to hide a second Trojan  inside the first one to make it reveal MRX's  
+identity when he accesses the system after the  mission is completed. While destroying their hard  
+drives to get rid of all evidence, Max apologizes  to Benjamin for everything and admits he doesn't  
+even know anything about computers. Afterward,  CLAY travels to The Hague to study Europol's  
+headquarters, but none of their usual tricks  work: the trash is dumped in a secured building,  
+nobody falls for their phishing attempts, and  all entrances are locked including the sewers,  
+where Max gets his hand hurt by a nail. The  group is ready to give up, but when they're  
+about to leave, Benjamin notices a person leaving  the building and dropping their access card,  
+which he steals. It's pretty risky to pull social  hacking on a guard working for the government,  
+so Benjamin waits for his friends to fall asleep  in the hotel to try it, accepting this is his  
+responsibility. By pretending to be the owner of  the access card, Benjamin convinces the guard to  
+give him two minutes inside to find a wallet  he lost and manages to plant a box designed by  
+Paul that grants him access to the BND network.  The next morning, Benjamin meets with MRX in his  
+private channel to pass him the hidden Trojan, but  MRX already knew about this trick and activates  
+the camera on Benjamin's computer, exposing his  face to the entire Darknet. Immediately a group  
+of Russian mobsters finds him and chases him  through the city; Benjamin only manages to save  
+himself by hiding in the subway tunnels. Sadly  his friends aren't as lucky, and when Benjamin  
+returns to the hotel he finds them all dead.  After picking up the bullets, Benjamin calls  
+the police and asks for Hanne, taking us back to  the beginning. He wishes to be invisible again and  
+not to fear for his life, so he's providing all  this information in exchange for being accepted  
+into the witness protection program. While  Hanne calls her higher-ups to get the deal,  
+Benjamin reminisces about her last evening spent  with Marie, during which she thanked him for  
+hacking the exam answers and they kissed, Benjamin  also asked her to run away with him. Martin comes  
+over and tells Hanne not to trust Benjamin because  his story has lots of holes, but Hanne makes him  
+change his mind by convincing him that Benjamin is  the only one that can bring down MRX and FRI3NDS,  
+who are the real criminals. Benjamin is given  a computer to work his magic, logging in to the  
+Darknet pretending to be MRX and confessing he's a  snitch working with law enforcement. The real MRX  
+gets so desperate to clear his name that he forces  his way in with unsafe methods, allowing Benjamin  
+to expose him as a 19-year-old American guy from  New York that immediately gets arrested by the  
+FBI. Delighted by this success, Hanne informs  Benjamin that he'll get his new identity in a  
+few hours while noticing a wound on his hand that  looks like a nail did it. Remembering Martin's  
+observation about all the holes in Benjamin's  story, Hanne decides to investigate more, starting  
+at Benjamin's house where she finds the empty box  of Ritalin. Then she meets with Marie, who denies  
+having seen Benjamin since he delivered the pizzas  and calls him crazy. Lastly, Hanne visits the  
+doctor in charge of Benjamin's grandmother, who  explains Benjamin grew up in unclear circumstances  
+and his mother ended things for herself because  she suffered from Multiple Personality Disorder,  
+which is inheritable and medicine like Ritalin  can make the symptoms stronger. After lab tests  
+confirm that the bullets Benjamin brought from the  hotel are the war memories of his grandmother and  
+no bodies have been found, Hanne goes to see him  again and explains she knows the truth: Max, Paul,  
+and Stephan never existed, they're Benjamin's  other personalities. All the hacking had been  
+solo work, and the nail injury from the sewers  has always been on his own hand. This unsettles  
+Benjamin, who refuses to accept he's like his  mom and begins wondering who he really is,  
+but Hanne interrupts him with bad news: people  with mental disorders cannot be given witness  
+protection. Overwhelmed by the fear of possibly  getting killed by FR13NDS and the news of being  
+mentally ill, Benjamin has a breakdown that makes  Hanne pity him and give him one last chance. On  
+their way to court, Hanne gives Benjamin access  to a government computer and explains the witness  
+protection program is a literal program he can  hack, so he can set up his new identity after  
+promising he'll never hack anything ever again.  Benjamin is legally released and after bleaching  
+his hair, he leaves the country on a Scandlines  ferry, where he meets with Marie, Max, Paul,  
+and Stephan. It turns out he isn't mentally ill  and this whole deal has been part of a plan by  
+CLAY to socially hack Hanne. After he escaped the  Russian mobsters, Benjamin told his friends he was  
+a danger to work with, but they refused to forsake  him and decided they needed to trick Hanne.  
+With the help of Marie's knowledge of the law,  they learn people with mental disorders cannot  
+be given witness protection and set up the  whole story to have holes on purpose; they  
+also gave Benjamin's hand a wound to match Max's  and retrieved the bullets from his grandmother's  
+box as a final touch. Benjamin didn't write his  name under witness protection, he actually deleted  
+all his information from the system and did the  same for his friends, so now they can start a  
+new life while being truly invisible. Meanwhile  during Martin's press conference announcing their  
+success, Hanne realizes she's been tricked but  still smiles to herself. She thinks Benjamin is  
+right: the biggest fish have been caught  and now she can have her position again.
